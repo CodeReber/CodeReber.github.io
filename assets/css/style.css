@@ -28,7 +28,7 @@ header{
     transform: translateY(-50%);
 }
 a{
-    color: grey;
+    color:greenyellow;
 }
 body{
     background-image:url("../images/crossline-lines.png");
@@ -120,7 +120,7 @@ footer{
     border-color: #4aaaa5;
     text-align: center;
     font-size: 8pt;
-    padding-top: 40px;
+    padding-top: 10px;
     position: absolute;
     bottom: 0px;
     width: 100%;
